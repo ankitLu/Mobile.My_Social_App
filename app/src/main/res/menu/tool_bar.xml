@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/toolBarUserNameTextView"
+        android:title="@string/username"
+        app:showAsAction="always"
+        />
+
+    <item android:title="editProfile"
+        android:visible="false"
+        app:showAsAction="always"
+        android:id="@+id/editProfile"
+        android:icon="@drawable/edit_profile" />
+    <item
+        android:title="@string/friendsicon"
+        app:showAsAction="always"
+        android:id="@+id/toolBarFriendsIcon"
+        android:icon="@drawable/friends_list" />
+
+
+
+</menu>

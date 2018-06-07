@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HW07</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_social_app">My Social App</string>
+    <string name="not_a_member">Not a member?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dob_mm_dd_yy">DoB MM/DD/YY</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="existing_session">User session existing!</string>
+    <string name="user_key">USER_KEY</string>
+    <string name="friendsicon">friendsIcon</string>
+    <string name="friends">Friends</string>
+    <string name="title_activity_dummy">DummyActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="user_details">UserDetails</string>
+    <string name="confirm">Confirm</string>
+    <string name="posts">Posts</string>
+    <string name="write_a_post">Write a Post (max 200)</string>
+</resources>
